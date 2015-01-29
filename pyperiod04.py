@@ -10,12 +10,12 @@ def ft(lc,lcfile='temp.lc',ftfile='temp.ft',batchfile='temp.bat'):
     
     
     #Run the batch file
-    
-    
-    #Clean up any temporary files
         
     
     #Read in the FT
+    
+    
+    #Clean up any temporary files
     
     
     #Return the FT
